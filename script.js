@@ -1,5 +1,4 @@
-function calculateMinCost() {
-  //your code here// JS code frome here.................
+// JS code frome here.................
 //your code here
 function minCostToFormRope() {
 	// event.preventDefault();
@@ -21,7 +20,3 @@ while(arr.length>1){
 }
 document.getElementById("result").textContent=cost;	
 }
-  
-  
-  
-}  
